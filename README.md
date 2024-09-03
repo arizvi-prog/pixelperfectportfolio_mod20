@@ -44,4 +44,7 @@ The application is deployed on Netlify. You can view the live portfolio here.
 Contact
 Feel free to reach out to me via the contact form on the website or through the following links:
 
+GitHub: github.com/arizvi-prog
+LinkedIn: linkedin.com/alisharizvii
+
 Thank you for visiting my portfolio!
